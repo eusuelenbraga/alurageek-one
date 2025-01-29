@@ -33,6 +33,6 @@ Este projeto foi desenvolvido faz parte do Challenge One do programa Oracle Next
 ## 👯 Clone este projeto:
 
 ```bash
-$ git clone https://github.com/suelenbraga1/alurageek-one.git
+$ git clone https://github.com/eusuelenbraga/alurageek-one.git
 # Acessar
 $ cd alurageek-one
